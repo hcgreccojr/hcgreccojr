@@ -10,7 +10,7 @@
 
 ## 🎯 Sobre mim
 
-- 🎓 Graduando em **Ciência da Computação** (UNIP, conclusão prevista para 2026) e cursando **Pós-graduação em Engenharia de Software**
+- 🎓 Graduando em **Ciência da Computação** e cursando **Pós-graduação em Engenharia de Software**
 - 💼 Atuei como **Assistente de Sistema em TI** na Unimed Araraquara — help desk, infraestrutura, banco de dados e automações
 - 🌐 Passei pela **Compass UOL** como estagiário, aprendendo React.js, Node.js, AWS e boas práticas ágeis
 - 🔭 No momento, unindo minha bagagem de infraestrutura com desenvolvimento backend em Java/Spring
